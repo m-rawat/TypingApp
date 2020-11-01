@@ -1,2 +1,2 @@
 # TypingApp
-Check your typing speed by using this
+Here you check your typing speed. 
